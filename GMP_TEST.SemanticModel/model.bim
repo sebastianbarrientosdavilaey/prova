@@ -20201,7 +20201,7 @@
               "    )",
               "",
               "RETURN",
-              "    COUNTROWS ( _TempTable )"
+              "    COUNTROWS ( _TempTable ) *100"
             ],
             "formatString": "0",
             "lineageTag": "671736b4-863e-4b8e-aae6-0488cae87672"
